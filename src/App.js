@@ -5,16 +5,14 @@ import { Route } from "react-router-dom";
 
 import HomePage from "./pages/homepage/homepage.component";
 
-const HatsPage = () => {
-  return <h1>This is Hats Page</h1>;
-};
+import ShopPage from "./pages/shop/shop.component";
 
 function App() {
   return (
     <di>
       <Route exact path="/" component={HomePage} />
 
-      <Route exact path="/hats" component={HatsPage} />
+      <Route path="/shop" component={ShopPage} />
     </di>
   );
 }
