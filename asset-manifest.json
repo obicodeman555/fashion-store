@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fashion-store/static/css/main.63450489.chunk.css",
+    "main.js": "/fashion-store/static/js/main.cd1113fa.chunk.js",
+    "main.js.map": "/fashion-store/static/js/main.cd1113fa.chunk.js.map",
+    "runtime-main.js": "/fashion-store/static/js/runtime-main.c5ae3c74.js",
+    "runtime-main.js.map": "/fashion-store/static/js/runtime-main.c5ae3c74.js.map",
+    "static/js/2.b76f78d6.chunk.js": "/fashion-store/static/js/2.b76f78d6.chunk.js",
+    "static/js/2.b76f78d6.chunk.js.map": "/fashion-store/static/js/2.b76f78d6.chunk.js.map",
+    "index.html": "/fashion-store/index.html",
+    "precache-manifest.1153575f9c1713a5d66cb89ab8c8716a.js": "/fashion-store/precache-manifest.1153575f9c1713a5d66cb89ab8c8716a.js",
+    "service-worker.js": "/fashion-store/service-worker.js",
+    "static/css/main.63450489.chunk.css.map": "/fashion-store/static/css/main.63450489.chunk.css.map",
+    "static/js/2.b76f78d6.chunk.js.LICENSE.txt": "/fashion-store/static/js/2.b76f78d6.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/fashion-store/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5ae3c74.js",
+    "static/js/2.b76f78d6.chunk.js",
+    "static/css/main.63450489.chunk.css",
+    "static/js/main.cd1113fa.chunk.js"
+  ]
+}
