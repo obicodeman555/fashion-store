@@ -8,3 +8,15 @@ a {
   text-decoration: none;
   color: black;
 }
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  box-sizing: border-box;
+}
